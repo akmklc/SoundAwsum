@@ -1,0 +1,14 @@
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\bin\Debug\SoundAwsum.exe.config
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\bin\Debug\SoundAwsum.exe
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\bin\Debug\SoundAwsum.pdb
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\bin\Debug\NAudio.dll
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\bin\Debug\NAudio.xml
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.csprojResolveAssemblyReference.cache
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.Form1.resources
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.Properties.Resources.resources
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.csproj.GenerateResource.Cache
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.exe
+c:\users\akmklc\documents\visual studio 2013\Projects\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.pdb
+C:\Users\akk\Desktop\SoundAwsum\SoundAwsum\SoundAwsum\bin\Debug\SoundAwsum.exe.config
+C:\Users\akk\Desktop\SoundAwsum\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.exe
+C:\Users\akk\Desktop\SoundAwsum\SoundAwsum\SoundAwsum\obj\Debug\SoundAwsum.pdb
